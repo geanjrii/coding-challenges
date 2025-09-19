@@ -13,5 +13,5 @@
 
 ## 📂 Estrutura do repositório
 
-Cada desafio tem sua própria pasta, e dentro dela existem subpastas separadas por linguagem.
+Cada limguagem tem sua própria pasta, e dentro dela existem subpastas separadas por desafio.
 
