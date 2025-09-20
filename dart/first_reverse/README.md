@@ -9,6 +9,3 @@ Have the function FirstReverse(str) take the str parameter being passed and retu
 
 `Input: "I Love Code"`
 `Output: edoC evoL I`
-
- 
- 
